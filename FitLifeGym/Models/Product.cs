@@ -1,4 +1,4 @@
-﻿namespace FitLifeGymGym.Models;
+﻿namespace FitLifeGym.Models;
 
 //defining class product (model)
 public class Product

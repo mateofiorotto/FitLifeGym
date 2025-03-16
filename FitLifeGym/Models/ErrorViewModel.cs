@@ -1,4 +1,4 @@
-namespace FitLifeGymGym.Models
+namespace FitLifeGym.Models
 {
     public class ErrorViewModel
     {

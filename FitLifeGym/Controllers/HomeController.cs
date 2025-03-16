@@ -1,16 +1,20 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using FitLifeGymGym.Models;
+using FitLifeGym.Models;
 using System.Xml.Linq;
+using Microsoft.EntityFrameworkCore;
+using FitLifeGym.Data;
 
-namespace FitLifeGymGym.Controllers;
+namespace FitLifeGym.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly FitLifeGymContext _context;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(FitLifeGymContext context, ILogger<HomeController> logger)
     {
+        _context = context;
         _logger = logger;
     }
 
@@ -18,14 +22,14 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Shop()
+
+    public async Task<IActionResult> Shop()
     {
-        return View();
+        return View(await _context.Product.ToListAsync());
     }
-    public IActionResult About(string name, int numTimes = 1)
+
+    public IActionResult About()
     {
-        ViewData["Members"] = name;
-        ViewData["NumTimes"] = numTimes;
         return View();
     }
 

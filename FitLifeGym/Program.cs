@@ -1,9 +1,23 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using FitLifeGym.Data;
+using FitLifeGym.Models; //use for seeder
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<FitLifeGymContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("FitLifeGymContext") ?? throw new InvalidOperationException("Connection string 'FitLifeGymContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+//seeder
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    SeedData.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

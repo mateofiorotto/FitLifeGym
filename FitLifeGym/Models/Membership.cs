@@ -1,6 +1,6 @@
 ﻿using FitLifeGym.Models;
 
-namespace FitLifeGymGym.Models
+namespace FitLifeGym.Models
 {
     public class Membership
     {

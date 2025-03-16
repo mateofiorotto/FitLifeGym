@@ -3,48 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitLifeGymContext_91a6508a_5bd1_4c5c_9010_e7f7c351a7b8/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|c:\\users\\mates\\onedrive\\desktop\\progra\\2025\\csharp\\fitlifegym\\fitlifegym\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BABBAC-F133-4BA4-A05B-F3FEBB4E7661}|FitLifeGym\\FitLifeGym.csproj|solutionrelative:fitlifegym\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +37,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:38:38.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "FitLifeGym\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Product.cs",
-              "RelativeToolTip": "FitLifeGym\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:35:55.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Membership.cs",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Membership.cs",
-              "RelativeDocumentMoniker": "FitLifeGym\\Models\\Membership.cs",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Membership.cs",
-              "RelativeToolTip": "FitLifeGym\\Models\\Membership.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:35:51.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:35:50.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:35:49.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:35:48.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "FitLifeGym\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "FitLifeGym\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:34:22.629Z",
+              "Title": "readme.MD",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\readme.MD",
+              "RelativeDocumentMoniker": "FitLifeGym\\readme.MD",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\readme.MD",
+              "RelativeToolTip": "FitLifeGym\\readme.MD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-16T21:43:33.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:34:58.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FitLifeGym\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FitLifeGym\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:34:08.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FitLifeGym\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FitLifeGym\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Program.cs",
+              "RelativeDocumentMoniker": "FitLifeGym\\Program.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Program.cs",
+              "RelativeToolTip": "FitLifeGym\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:32:15.813Z",
+              "WhenOpened": "2025-03-16T21:34:50.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FitLifeGym\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\Product.cs",
+              "RelativeToolTip": "FitLifeGym\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:31:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "FitLifeGym\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Models\\SeedData.cs",
+              "RelativeToolTip": "FitLifeGym\\Models\\SeedData.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:29:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Shop.cshtml",
               "RelativeDocumentMoniker": "FitLifeGym\\Views\\Home\\Shop.cshtml",
               "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Views\\Home\\Shop.cshtml",
               "RelativeToolTip": "FitLifeGym\\Views\\Home\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T19:33:51.639Z",
+              "WhenOpened": "2025-03-16T21:13:52.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FitLifeGym\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FitLifeGym\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:12:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Product [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FitLifeGymContext_91a6508a_5bd1_4c5c_9010_e7f7c351a7b8/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "dbo.Product [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-16T20:56:10.46Z",
               "EditorCaption": ""
             }
           ]
