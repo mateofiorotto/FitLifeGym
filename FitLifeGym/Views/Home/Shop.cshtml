@@ -5,17 +5,20 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Shop</h1>
+    <h2 class="display-4">Shop</h2>
     <p>This is FitLifeGym. The Best Gym.</p>
 
-    <ul>
+    <ul class="row justify-content-center align-items-center">
         @foreach (var item in Model)
         {
-            <div class="product-card">
-                <img src="@item.ImageUrl" alt="@item.Name">
-                <h3>@item.Name</h3>
-                <p>Precio: @item.Price</p>
-            </div>
+            @if (item.Stock > 0)
+            {
+                <div class="col-lg-4 mt-5 mb-5 product-card">
+                    <img src="@item.ImageUrl" alt="@item.Name">
+                    <h3>@item.Name</h3>
+                    <p>Precio: @item.Price</p>
+                </div>
+            }
         }
     </ul>
 </div>

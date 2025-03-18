@@ -3,6 +3,7 @@ using FitLifeGym.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FitLifeGym.Migrations
 {
     [DbContext(typeof(FitLifeGymContext))]
-    partial class FitLifeGymContextModelSnapshot : ModelSnapshot
+    [Migration("20250318132151_ChangingRequiredIMG")]
+    partial class ChangingRequiredIMG
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -30,6 +30,9 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+//404
+app.UseStatusCodePagesWithReExecute("/Home/Error", "?statusCode={0}");
+
 app.UseRouting();
 
 app.UseAuthorization();

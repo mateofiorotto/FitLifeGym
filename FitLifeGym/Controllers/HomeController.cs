@@ -23,8 +23,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public async Task<IActionResult> Shop()
+    public async Task<IActionResult> Shop(string searchString)
     {
+
         return View(await _context.Product.ToListAsync());
     }
 
@@ -40,8 +41,20 @@ public class HomeController : Controller
 
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
+
+    //404
+    public IActionResult Error(int? statusCode = null)
     {
+        if (statusCode.HasValue)
+        {
+            if (statusCode == 404 || statusCode == 500)
+            {
+                var viewName = statusCode.ToString();
+                return View(viewName);
+            }
+        }
+
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj": {}
+    "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\.net\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj": {
+    "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\.net\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj",
+        "projectUniqueName": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\.net\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj",
         "projectName": "FitLifeGym",
-        "projectPath": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj",
+        "projectPath": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\.net\\FitLifeGym\\FitLifeGym\\FitLifeGym.csproj",
         "packagesPath": "C:\\Users\\mates\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\csharp\\FitLifeGym\\FitLifeGym\\obj\\",
+        "outputPath": "C:\\Users\\mates\\OneDrive\\Desktop\\Progra\\2025\\.net\\FitLifeGym\\FitLifeGym\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

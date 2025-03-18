@@ -3,6 +3,7 @@ using FitLifeGym.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FitLifeGym.Migrations
 {
     [DbContext(typeof(FitLifeGymContext))]
-    partial class FitLifeGymContextModelSnapshot : ModelSnapshot
+    [Migration("20250317220805_MappingModels")]
+    partial class MappingModels
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -33,7 +36,7 @@ namespace FitLifeGym.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("ImageUrl")
-                        .HasColumnType("varchar(200)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -47,7 +50,7 @@ namespace FitLifeGym.Migrations
 
                     b.Property<string>("Type")
                         .IsRequired()
-                        .HasColumnType("varchar(100)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
