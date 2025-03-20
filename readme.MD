@@ -1,4 +1,8 @@
 ﻿# FitLifeGym
+
+## This project is currently paused
+I had to pause this project for some personal reasons, studies and work. Also i'm learning laravel but i will save this project for a possible continuation in the future.
+
 ## ENG
 This personal project is based on a webpage for a gym. The idea is (it can change):
 
